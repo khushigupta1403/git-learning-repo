@@ -1,0 +1,11 @@
+Ans1: vcs stands for version control system. in vcs we can add features without affecting the main code and if there is error in new version so we can go back to the previous version and different people can work on the same project.
+Ans2: centralised vcs and distributed vcs is a type of vcs.  centralised vcs work on server if it is corrupted then all the code is lost or damaged whereas distributed vcs is a combination of centralized and local vcs in these it can work on computer and server and it is more safer because it has a copy of code in computer.
+Ans3: git is a free and open source.git is a distributed version control system that help to do changes in computer and github is a online website where we can submit the project online.
+Ans4: The staging area is a space where Git temporarily holds changes before they are committed to the project history. stagging area also called as index.
+Ans5: The .git folder is a hidden folder that helps to track the changes in the code and .git folder contains Commits,Branches,Configuration,Staging info etc.
+Ans6: in git branching we can create a duplicate copy without affecting the main code.we can make changes or add new features in duplicate code.syntax for git branch is git branch branch-name and syntax for switching branch is git checkout branch-name.
+Ans7:
+
+Ans8: In a squash merge we can combine all small- small commits into a one big commit if we cannot merge a small small commit so it will create a confusion. we use squash merge to keep the main branch history clean.
+Ans9: git rebase is a Git command that lets you move your work (commits) on top of another branch.we use git rebase to  make your Git history cleaner and easier to read, especially before merging your branch. example is whatspp messages.
+
